@@ -1,2 +1,3 @@
 # kg_scoreboard
- A Scoreboard using QB-Core
+
+Shows the Active Number of Employees for 4 Jobs.
